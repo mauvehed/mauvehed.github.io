@@ -1,0 +1,59 @@
+==================================================================
+https://keybase.io/mauvehed
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://mauvehed.com
+  * I am mauvehed (https://keybase.io/mauvehed) on keybase.
+  * I have a public key with fingerprint C171 5060 CB31 B1AE 2246  25BD 17E0 D1A7 9C39 7504
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "c1715060cb31b1ae224625bd17e0d1a79c397504",
+            "host": "keybase.io",
+            "key_id": "17e0d1a79c397504",
+            "uid": "d70115d17c017b55d57d3b2cb7437200",
+            "username": "mauvehed"
+        },
+        "service": {
+            "hostname": "mauvehed.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1408753967,
+    "expire_in": 157680000,
+    "prev": "e8866bf102e4045722f69f4dd96554c32dd2617f06d01f2b06b5cde5d4298ee0",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1.4.11 (GNU/Linux)
+
+owFtkT1PHDEQhpfjQwIpClRpI0t0q5Pt9cfu1oiOih9wWtuzdya59bK7d8kJnWgS
+JSU/AAkalFQQ2oiCPlUqWugiRUqRIrSxEUoR4Wbkmed9Z0Zz9Gwx6m28uP3+6Tib
+LC18u/6tot37u+sDpJyZofwAvYKHUNpqCE3d2KpDOdJEEo4F1iohihRAKROUK0Mk
+YEMKmekkkxwzFKORa4PC26iihb51Puc/A2t89gl+8lAwEhPCvZ/GRCrODZcmUVQr
+yRJJMQ5gC01VjMHT42IyhREYNI+Rz06thjBzaP0f0ddu7LV14zqn3WtfGXVdnQdh
+N6sD+QbU4NFjoGxl/N5eMIWmta5COfGk7mwwJQynkieZkDGCt7VtYGADwaVIsX+h
+DUy9JaSpEKokmALDjEtKS5GVzJhMcM50Qo2hgsgSC4NJSRUWimsD3DCapQBh2Rb2
+K4fy1I9ZDL1la4dV0U0aQPO1j9tL0UYvWlnuhctFa6vr/+75OToZf32/824eX+5d
+bW3h+Nfmip6dR6eXd0fw5c/w4sfZ88PtDz8P0/7Ny78=
+=TfYH
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mauvehed
+
+==================================================================
+
