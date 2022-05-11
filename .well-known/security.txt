@@ -1,5 +1,24 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
 Contact: mailto:mauvehed [AT] mauvehed.com
 Encryption: https://keybase.io/mauvehed/pgp_keys.asc?fingerprint=19AB789C3C878FB54D3763D34DB4747D845D9ECE
 Canonical: https://mauvehed.com/.well-known/security.txt
 Preferred-Languages: en
 Expires: 2100-01-01T06:00:00.000Z
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEGat4nDyHj7VNN2PTTbR0fYRdns4FAmJ7ISIACgkQTbR0fYRd
+ns6THQ/9GVLbd56Ul0ew7l4aNm//kV2q1RqcX+mtwvePOUKMVoI532UGfkeNB/8u
+IzhbRuXqEg8mmleqPFVGOdwgvAshoicfNhqIorgs2rnkTQ+iIBCMDcc9k8rO4dWN
+b2gZzHPgqvTEJ8sa2DgiFy9ZD94DYr38sfSjNIWMpRAlVW14FUl/Eisq+CV2GRR+
+g5+/Uuk9jCb48XJi/ZKMVxsAf+k6x80iEfP6DQUhx5Qhlubuof3VFv7Ad234D8Yl
+tCBmSXaeUg10vaSLuS95kyUqPF/9DGZU0lea4anXzDNz18ToeWh/ZHOMMm9816/U
+iaUgbR3F4bGYFSv/xxs0UEWKnE3gTKUtUJsH+3PzgXQzUZT1v3DpvdqoTx1RJZ02
+Sah6MZeUFFoezsEjgTXODHEo22qWm86m38fUuEY8EJfG6m4mpZmfS3u+uLkP7xFX
+4Xug/SN7HFrd+tDLVjd2AEa4bUi2VcU6C9AlgqC4hGROfYybqmOyZQ+jqQKRszEz
+2lnqtlUKvzMykJL5HKWm1RreN8sEYKbhBRb8DV/Pww12NhXzVpRDmfDcHGlPwy5e
+0je+lyRROWZ3u4h7cnyjrcS2G7l0PMWMsxUahqqfJSvzErLlS2Q0zaGrD1u7Iqi1
+7RXxAlKxzvuafJRS+wIg1sKHaEDOP6RPnsoe1qBL1O/ZBdjeMvY=
+=Ur91
+-----END PGP SIGNATURE-----
