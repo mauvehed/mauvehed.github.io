@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/mauvehed
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://mauvehed.com
+  * I am mauvehed (https://keybase.io/mauvehed) on keybase.
+  * I have a public key ASB3aEVJHUw25ChNxbnd6C3CW8826vaD7CmhtbQq8l-k6Qo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0111d3f79a65d28977db0d5a6c480c37fb3704feb4ba84782498d367f0fd924367720a",
+      "host": "keybase.io",
+      "kid": "0120776845491d4c36e4284dc5b9dde82dc25bcf36eaf683ec29a1b5b42af25fa4e90a",
+      "uid": "d70115d17c017b55d57d3b2cb7437200",
+      "username": "mauvehed"
+    },
+    "merkle_root": {
+      "ctime": 1652233809,
+      "hash": "b6a62a1f8636fa31f511440fa3a6d5ccc1f2e573df90f675779ada2a166edcb86a79e51261839ee2e25a98045b7472d311545d9b11b11691a8cde6c6a138d356",
+      "hash_meta": "fd0aac421087266374b23427d3dd101176b406c65c7b9ea84b52efe793086bfe",
+      "seqno": 22461783
+    },
+    "service": {
+      "entropy": "LgOD0eHTwSyylmbg5ajwGgyL",
+      "hostname": "mauvehed.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.9.2"
+  },
+  "ctime": 1652233936,
+  "expire_in": 504576000,
+  "prev": "ef6a3dab9182848e69e03d9c00dfb03026d9b1fe7592857ffcdce8c35d274476",
+  "seqno": 171,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgd2hFSR1MNuQoTcW53egtwlvPNur2g+wpobW0KvJfpOkKp3BheWxvYWTES5cCzKvEIO9qPauRgoSOaeA9nADfsDAm2bH+dZKFf/zc6MNdJ0R2xCCiK6dy+4cAi/qMHaxP3WrCwqmxk7vLSpYADtsGLrZZkgIBwqNzaWfEQA9N8l4eMvWAYvPNu0xkKSPjwE2rDMi8EzlKm6Cmm5hl7KAxE8VQNzdM3wiz2XlQcuqneQxI0lo8YfOVLIO6ygmoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCBfsoHDZLoykv/DkN4qafDgE1exbJxRBzAoRsPkKaIxeKN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mauvehed
+
+==================================================================
