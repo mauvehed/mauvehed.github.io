@@ -1,7 +1,7 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA256
 
-Contact: mailto:mauvehed [AT] mauvehed.com
+Contact: mailto:mh [AT] mauvehed.com
 Encryption: https://keybase.io/mauvehed/pgp_keys.asc?fingerprint=19AB789C3C878FB54D3763D34DB4747D845D9ECE
 Canonical: https://mauvehed.com/.well-known/security.txt
 Preferred-Languages: en
