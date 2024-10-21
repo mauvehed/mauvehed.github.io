@@ -41,15 +41,16 @@ body {
   transition: background-color 0.3s, color 0.3s;
 }
 
+.navigation a:visited {
+  color: #A000C8;
+}
+
 .navigation a:hover {
   background-color: #8A00C2;
   color: #FFFFFF;
 }
 
-.navigation a:visited {
-  color: #A000C8;
-}
-
 .navigation .strike {
   text-decoration: line-through;
+  color: #A000C8;
 }
