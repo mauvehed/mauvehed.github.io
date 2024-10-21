@@ -1,0 +1,56 @@
+/* Reset some default browser styles */
+body, h1, p, a {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  color: inherit;
+  font-family: Arial, sans-serif;
+}
+
+body {
+  background-color: #000000;
+  color: #FFFFFF;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+.container {
+  text-align: center;
+}
+
+.banner {
+  width: 100%;
+  max-width: 1000px;
+  margin: 20px 0;
+}
+
+.navigation {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.navigation a {
+  color: #A000C8;
+  padding: 5px 10px;
+  border-radius: 4px;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.navigation a:hover {
+  background-color: #8A00C2;
+  color: #FFFFFF;
+}
+
+.navigation a:visited {
+  color: #A000C8;
+}
+
+.navigation .strike {
+  text-decoration: line-through;
+  color: #FFFFFF;
+}
