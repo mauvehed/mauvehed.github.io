@@ -47,10 +47,9 @@ body {
 }
 
 .navigation a:visited {
-  color: #FFFFFF;
+  color: #A000C8;
 }
 
 .navigation .strike {
   text-decoration: line-through;
-  color: #FFFFFF;
 }
